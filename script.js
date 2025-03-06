@@ -49,9 +49,9 @@ console.log(Sum2Number(60, 50)) //this condition is false because 60 + 50 is gre
 //Q6. Write a function that checks whether a number is even or odd.
 
 function evenOrOdd(num) {
-    return num % 2 === 0 ? "Even" : "Odd"; // Using ternary operator 
+    return num % 2 === 0 ? "Even" : "Odd"; // using ternary operator 
 }
 
-console.log(evenOrOdd(4)); // Even
-console.log(evenOrOdd(7)); // Odd
+console.log(evenOrOdd(4)); // even
+console.log(evenOrOdd(7)); // odd
 
